@@ -1,0 +1,302 @@
+{
+  "events": [
+    {
+      "event_title": "roadLAB",
+      "event_description": "Wir tauschen die Rollen und kommen zu Ihnen. Das Technische Museum Wien wird mobil und besucht Schulen und andere Bildungseinrichtungen: mit einem E-Bus, der als Maker*Space mit 3D-Drucker, Lasercutter und Co. ausgestattet ist. Wir bringen alles mit und so können sich die Schüler_innen ganz auf das Tüfteln und Designen konzentrieren.",
+      "event_link": "https://www.technischesmuseum.at/roadlab",
+      "event_target_audience": [
+        30,
+        40,
+		50,
+		70
+      ],
+      "event_topics": [
+        100,
+		200		
+      ],
+      "event_start": "2024-08-01T00:00:00+01:00",
+      "event_end": "2026-05-31T00:00:00+01:00",
+      "event_classification": "on-demand",
+      "event_has_fees": false,
+      "event_is_online": false,
+      "organization_name": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "program_name": "Nichts ist unmöglich - Einstieg ins Making, Klarer Schnitt - Einführung in Schneideplotter & Lasercutter, Schicht auf Schicht - Einführung ins 3D-Drucken, Offenes roadLAB",
+      "event_format": "Die Workshops geben einen Einblick in moderne Produktionstechnologien wie Lasercutter oder 3D-Drucker und unterstützt die Jugendlichen dabei, die dafür benötigten Computerprogramme zu bedienen. Anschließend werden erste kreative Projekte umgesetzt.",
+      "event_school_bookable": true,
+      "event_age_minimum": 12,
+      "event_age_maximum": 99,
+      "event_location_name": "Das roadLAB ist ein mobiler Maker*Space und somit in ganz Österreich unterwegs.",
+      "event_address_state": "Wien",
+      "event_contact_name": "David Scheßl",
+      "event_contact_org": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "event_contact_email": "roadLAB@tmw.at",
+      "event_contact_phone": "+43-1-89998-3560",
+	  "group_id": "87"
+    },
+	    {
+      "event_title": "roadLAB",
+      "event_description": "Wir tauschen die Rollen und kommen zu Ihnen. Das Technische Museum Wien wird mobil und besucht Schulen und andere Bildungseinrichtungen: mit einem E-Bus, der als Maker*Space mit 3D-Drucker, Lasercutter und Co. ausgestattet ist. Wir bringen alles mit und so können sich die Schüler_innen ganz auf das Tüfteln und Designen konzentrieren.",
+      "event_link": "https://www.technischesmuseum.at/roadlab",
+      "event_target_audience": [
+        30,
+        40,
+		50,
+		70
+      ],
+      "event_topics": [
+        100,
+		200		
+      ],
+      "event_start": "2024-08-01T00:00:00+01:00",
+      "event_end": "2026-05-31T00:00:00+01:00",
+      "event_classification": "on-demand",
+      "event_has_fees": false,
+      "event_is_online": false,
+      "organization_name": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "program_name": "Nichts ist unmöglich - Einstieg ins Making, Klarer Schnitt - Einführung in Schneideplotter & Lasercutter, Schicht auf Schicht - Einführung ins 3D-Drucken, Offenes roadLAB",
+      "event_format": "Die Workshops geben einen Einblick in moderne Produktionstechnologien wie Lasercutter oder 3D-Drucker und unterstützt die Jugendlichen dabei, die dafür benötigten Computerprogramme zu bedienen. Anschließend werden erste kreative Projekte umgesetzt.",
+      "event_school_bookable": true,
+      "event_age_minimum": 12,
+      "event_age_maximum": 99,
+      "event_location_name": "Das roadLAB ist ein mobiler Maker*Space und somit in ganz Österreich unterwegs.",
+      "event_address_state": "Burgenland",
+      "event_contact_name": "David Scheßl",
+      "event_contact_org": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "event_contact_email": "roadLAB@tmw.at",
+      "event_contact_phone": "+43-1-89998-3560",
+	  "group_id": "87"
+    },
+	    {
+      "event_title": "roadLAB",
+      "event_description": "Wir tauschen die Rollen und kommen zu Ihnen. Das Technische Museum Wien wird mobil und besucht Schulen und andere Bildungseinrichtungen: mit einem E-Bus, der als Maker*Space mit 3D-Drucker, Lasercutter und Co. ausgestattet ist. Wir bringen alles mit und so können sich die Schüler_innen ganz auf das Tüfteln und Designen konzentrieren.",
+      "event_link": "https://www.technischesmuseum.at/roadlab",
+      "event_target_audience": [
+        30,
+        40,
+		50,
+		70
+      ],
+      "event_topics": [
+        100,
+		200		
+      ],
+      "event_start": "2024-08-01T00:00:00+01:00",
+      "event_end": "2026-05-31T00:00:00+01:00",
+      "event_classification": "on-demand",
+      "event_has_fees": false,
+      "event_is_online": false,
+      "organization_name": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "program_name": "Nichts ist unmöglich - Einstieg ins Making, Klarer Schnitt - Einführung in Schneideplotter & Lasercutter, Schicht auf Schicht - Einführung ins 3D-Drucken, Offenes roadLAB",
+      "event_format": "Die Workshops geben einen Einblick in moderne Produktionstechnologien wie Lasercutter oder 3D-Drucker und unterstützt die Jugendlichen dabei, die dafür benötigten Computerprogramme zu bedienen. Anschließend werden erste kreative Projekte umgesetzt.",
+      "event_school_bookable": true,
+      "event_age_minimum": 12,
+      "event_age_maximum": 99,
+      "event_location_name": "Das roadLAB ist ein mobiler Maker*Space und somit in ganz Österreich unterwegs.",
+      "event_address_state": "Kärnten",
+      "event_contact_name": "David Scheßl",
+      "event_contact_org": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "event_contact_email": "roadLAB@tmw.at",
+      "event_contact_phone": "+43-1-89998-3560",
+	  "group_id": "87"
+    },
+	    {
+      "event_title": "roadLAB",
+      "event_description": "Wir tauschen die Rollen und kommen zu Ihnen. Das Technische Museum Wien wird mobil und besucht Schulen und andere Bildungseinrichtungen: mit einem E-Bus, der als Maker*Space mit 3D-Drucker, Lasercutter und Co. ausgestattet ist. Wir bringen alles mit und so können sich die Schüler_innen ganz auf das Tüfteln und Designen konzentrieren.",
+      "event_link": "https://www.technischesmuseum.at/roadlab",
+      "event_target_audience": [
+        30,
+        40,
+		50,
+		70
+      ],
+      "event_topics": [
+        100,
+		200		
+      ],
+      "event_start": "2024-08-01T00:00:00+01:00",
+      "event_end": "2026-05-31T00:00:00+01:00",
+      "event_classification": "on-demand",
+      "event_has_fees": false,
+      "event_is_online": false,
+      "organization_name": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "program_name": "Nichts ist unmöglich - Einstieg ins Making, Klarer Schnitt - Einführung in Schneideplotter & Lasercutter, Schicht auf Schicht - Einführung ins 3D-Drucken, Offenes roadLAB",
+      "event_format": "Die Workshops geben einen Einblick in moderne Produktionstechnologien wie Lasercutter oder 3D-Drucker und unterstützt die Jugendlichen dabei, die dafür benötigten Computerprogramme zu bedienen. Anschließend werden erste kreative Projekte umgesetzt.",
+      "event_school_bookable": true,
+      "event_age_minimum": 12,
+      "event_age_maximum": 99,
+      "event_location_name": "Das roadLAB ist ein mobiler Maker*Space und somit in ganz Österreich unterwegs.",
+      "event_address_state": "Niederösterreich",
+      "event_contact_name": "David Scheßl",
+      "event_contact_org": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "event_contact_email": "roadLAB@tmw.at",
+      "event_contact_phone": "+43-1-89998-3560",
+	  "group_id": "87"
+    },
+	    {
+      "event_title": "roadLAB",
+      "event_description": "Wir tauschen die Rollen und kommen zu Ihnen. Das Technische Museum Wien wird mobil und besucht Schulen und andere Bildungseinrichtungen: mit einem E-Bus, der als Maker*Space mit 3D-Drucker, Lasercutter und Co. ausgestattet ist. Wir bringen alles mit und so können sich die Schüler_innen ganz auf das Tüfteln und Designen konzentrieren.",
+      "event_link": "https://www.technischesmuseum.at/roadlab",
+      "event_target_audience": [
+        30,
+        40,
+		50,
+		70
+      ],
+      "event_topics": [
+        100,
+		200		
+      ],
+      "event_start": "2024-08-01T00:00:00+01:00",
+      "event_end": "2026-05-31T00:00:00+01:00",
+      "event_classification": "on-demand",
+      "event_has_fees": false,
+      "event_is_online": false,
+      "organization_name": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "program_name": "Nichts ist unmöglich - Einstieg ins Making, Klarer Schnitt - Einführung in Schneideplotter & Lasercutter, Schicht auf Schicht - Einführung ins 3D-Drucken, Offenes roadLAB",
+      "event_format": "Die Workshops geben einen Einblick in moderne Produktionstechnologien wie Lasercutter oder 3D-Drucker und unterstützt die Jugendlichen dabei, die dafür benötigten Computerprogramme zu bedienen. Anschließend werden erste kreative Projekte umgesetzt.",
+      "event_school_bookable": true,
+      "event_age_minimum": 12,
+      "event_age_maximum": 99,
+      "event_location_name": "Das roadLAB ist ein mobiler Maker*Space und somit in ganz Österreich unterwegs.",
+      "event_address_state": "Oberösterreich",
+      "event_contact_name": "David Scheßl",
+      "event_contact_org": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "event_contact_email": "roadLAB@tmw.at",
+      "event_contact_phone": "+43-1-89998-3560",
+	  "group_id": "87"
+    },
+	    {
+      "event_title": "roadLAB",
+      "event_description": "Wir tauschen die Rollen und kommen zu Ihnen. Das Technische Museum Wien wird mobil und besucht Schulen und andere Bildungseinrichtungen: mit einem E-Bus, der als Maker*Space mit 3D-Drucker, Lasercutter und Co. ausgestattet ist. Wir bringen alles mit und so können sich die Schüler_innen ganz auf das Tüfteln und Designen konzentrieren.",
+      "event_link": "https://www.technischesmuseum.at/roadlab",
+      "event_target_audience": [
+        30,
+        40,
+		50,
+		70
+      ],
+      "event_topics": [
+        100,
+		200		
+      ],
+      "event_start": "2024-08-01T00:00:00+01:00",
+      "event_end": "2026-05-31T00:00:00+01:00",
+      "event_classification": "on-demand",
+      "event_has_fees": false,
+      "event_is_online": false,
+      "organization_name": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "program_name": "Nichts ist unmöglich - Einstieg ins Making, Klarer Schnitt - Einführung in Schneideplotter & Lasercutter, Schicht auf Schicht - Einführung ins 3D-Drucken, Offenes roadLAB",
+      "event_format": "Die Workshops geben einen Einblick in moderne Produktionstechnologien wie Lasercutter oder 3D-Drucker und unterstützt die Jugendlichen dabei, die dafür benötigten Computerprogramme zu bedienen. Anschließend werden erste kreative Projekte umgesetzt.",
+      "event_school_bookable": true,
+      "event_age_minimum": 12,
+      "event_age_maximum": 99,
+      "event_location_name": "Das roadLAB ist ein mobiler Maker*Space und somit in ganz Österreich unterwegs.",
+      "event_address_state": "Salzburg",
+      "event_contact_name": "David Scheßl",
+      "event_contact_org": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "event_contact_email": "roadLAB@tmw.at",
+      "event_contact_phone": "+43-1-89998-3560",
+	  "group_id": "87"
+    },
+	    {
+      "event_title": "roadLAB",
+      "event_description": "Wir tauschen die Rollen und kommen zu Ihnen. Das Technische Museum Wien wird mobil und besucht Schulen und andere Bildungseinrichtungen: mit einem E-Bus, der als Maker*Space mit 3D-Drucker, Lasercutter und Co. ausgestattet ist. Wir bringen alles mit und so können sich die Schüler_innen ganz auf das Tüfteln und Designen konzentrieren.",
+      "event_link": "https://www.technischesmuseum.at/roadlab",
+      "event_target_audience": [
+        30,
+        40,
+		50,
+		70
+      ],
+      "event_topics": [
+        100,
+		200		
+      ],
+      "event_start": "2024-08-01T00:00:00+01:00",
+      "event_end": "2026-05-31T00:00:00+01:00",
+      "event_classification": "on-demand",
+      "event_has_fees": false,
+      "event_is_online": false,
+      "organization_name": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "program_name": "Nichts ist unmöglich - Einstieg ins Making, Klarer Schnitt - Einführung in Schneideplotter & Lasercutter, Schicht auf Schicht - Einführung ins 3D-Drucken, Offenes roadLAB",
+      "event_format": "Die Workshops geben einen Einblick in moderne Produktionstechnologien wie Lasercutter oder 3D-Drucker und unterstützt die Jugendlichen dabei, die dafür benötigten Computerprogramme zu bedienen. Anschließend werden erste kreative Projekte umgesetzt.",
+      "event_school_bookable": true,
+      "event_age_minimum": 12,
+      "event_age_maximum": 99,
+      "event_location_name": "Das roadLAB ist ein mobiler Maker*Space und somit in ganz Österreich unterwegs.",
+      "event_address_state": "Steiermark",
+      "event_contact_name": "David Scheßl",
+      "event_contact_org": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "event_contact_email": "roadLAB@tmw.at",
+      "event_contact_phone": "+43-1-89998-3560",
+	  "group_id": "87"
+    },
+	    {
+      "event_title": "roadLAB",
+      "event_description": "Wir tauschen die Rollen und kommen zu Ihnen. Das Technische Museum Wien wird mobil und besucht Schulen und andere Bildungseinrichtungen: mit einem E-Bus, der als Maker*Space mit 3D-Drucker, Lasercutter und Co. ausgestattet ist. Wir bringen alles mit und so können sich die Schüler_innen ganz auf das Tüfteln und Designen konzentrieren.",
+      "event_link": "https://www.technischesmuseum.at/roadlab",
+      "event_target_audience": [
+        30,
+        40,
+		50,
+		70
+      ],
+      "event_topics": [
+        100,
+		200		
+      ],
+      "event_start": "2024-08-01T00:00:00+01:00",
+      "event_end": "2026-05-31T00:00:00+01:00",
+      "event_classification": "on-demand",
+      "event_has_fees": false,
+      "event_is_online": false,
+      "organization_name": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "program_name": "Nichts ist unmöglich - Einstieg ins Making, Klarer Schnitt - Einführung in Schneideplotter & Lasercutter, Schicht auf Schicht - Einführung ins 3D-Drucken, Offenes roadLAB",
+      "event_format": "Die Workshops geben einen Einblick in moderne Produktionstechnologien wie Lasercutter oder 3D-Drucker und unterstützt die Jugendlichen dabei, die dafür benötigten Computerprogramme zu bedienen. Anschließend werden erste kreative Projekte umgesetzt.",
+      "event_school_bookable": true,
+      "event_age_minimum": 12,
+      "event_age_maximum": 99,
+      "event_location_name": "Das roadLAB ist ein mobiler Maker*Space und somit in ganz Österreich unterwegs.",
+      "event_address_state": "Tirol",
+      "event_contact_name": "David Scheßl",
+      "event_contact_org": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "event_contact_email": "roadLAB@tmw.at",
+      "event_contact_phone": "+43-1-89998-3560",
+	  "group_id": "87"
+    },
+	    {
+      "event_title": "roadLAB",
+      "event_description": "Wir tauschen die Rollen und kommen zu Ihnen. Das Technische Museum Wien wird mobil und besucht Schulen und andere Bildungseinrichtungen: mit einem E-Bus, der als Maker*Space mit 3D-Drucker, Lasercutter und Co. ausgestattet ist. Wir bringen alles mit und so können sich die Schüler_innen ganz auf das Tüfteln und Designen konzentrieren.",
+      "event_link": "https://www.technischesmuseum.at/roadlab",
+      "event_target_audience": [
+        30,
+        40,
+		50,
+		70
+      ],
+      "event_topics": [
+        100,
+		200		
+      ],
+      "event_start": "2024-08-01T00:00:00+01:00",
+      "event_end": "2026-05-31T00:00:00+01:00",
+      "event_classification": "on-demand",
+      "event_has_fees": false,
+      "event_is_online": false,
+      "organization_name": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "program_name": "Nichts ist unmöglich - Einstieg ins Making, Klarer Schnitt - Einführung in Schneideplotter & Lasercutter, Schicht auf Schicht - Einführung ins 3D-Drucken, Offenes roadLAB",
+      "event_format": "Die Workshops geben einen Einblick in moderne Produktionstechnologien wie Lasercutter oder 3D-Drucker und unterstützt die Jugendlichen dabei, die dafür benötigten Computerprogramme zu bedienen. Anschließend werden erste kreative Projekte umgesetzt.",
+      "event_school_bookable": true,
+      "event_age_minimum": 12,
+      "event_age_maximum": 99,
+      "event_location_name": "Das roadLAB ist ein mobiler Maker*Space und somit in ganz Österreich unterwegs.",
+      "event_address_state": "Vorarlberg",
+      "event_contact_name": "David Scheßl",
+      "event_contact_org": "Technisches Museum Wien mit Österreichischer Mediathek",
+      "event_contact_email": "roadLAB@tmw.at",
+      "event_contact_phone": "+43-1-89998-3560",
+	  "group_id": "87"
+    }
+	
+  ]
+}
