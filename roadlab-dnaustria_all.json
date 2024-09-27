@@ -303,7 +303,7 @@
 
 	   {
       "event_title": "LET’S CODE! Programmieren für Einsteigerinnen",
-      "event_description": "Was bedeutet „Code“? Wie beeinflussen Programme, Algorithmen & Co unseren Alltag? Und wie können wir unsere digitale Lebenswelt mitgestalten? „LET’S CODE!“ ist eine Online-Workshopreihe für Frauen zu den Grundlagen des Codings. Denn: Code versteckt sich überall und Programmieren kann man lernen. Die Workshopreihe „LET’S CODE!“ besteht aus vier aufbauenden Workshops, in denen wir uns mit den Grundlagen des Programmierens beschäftigen. Wir sehen uns genauer an, wo bzw. wie diese Technik unseren Alltag und unser Zusammenleben bestimmt und welchen Einfluss es hat, wer Software programmiert. An vier aufbauenden Workshopterminen sammeln wir gemeinsam erste Programmiererfahrungen, widmen uns Algorithmen und der Frage, wie Code vervielfältigt, verändert und geteilt werden kann. Wir beschäftigen uns damit, wie im professionellen Kontext Software entwickelt wird, was es mit Datenverarbeitung („Big Data“) auf sich hat, wo künstliche Intelligenz beginnt und wie man mit Code kreativ werden kann. Denn wer Code versteht, kann unsere digitale Welt mitgestalten und sich kritisch mit ihr auseinandersetzen. Let‘s code together!",
+      "event_description": "Was bedeutet „Code“? Wie beeinflussen Programme, Algorithmen & Co unseren Alltag? Und wie können wir unsere digitale Lebenswelt mitgestalten? „LET’S CODE!“ ist eine Online-Workshopreihe für Frauen zu den Grundlagen des Programmierens. Denn Code versteckt sich überall und Programmieren kann man lernen. Und: Wer Code versteht, kann unsere digitale Welt mitgestalten und sich kritisch mit ihr auseinandersetzen. Die Workshopreihe „LET’S CODE!“ besteht aus vier aufbauenden Workshopterminen. Sie findet online statt und richtet sich an Frauen (ab 16 Jahren). Für die Teilnahme sind keine Vorkenntnisse notwendig. Das Projekt wird durch den Österreichischen Fonds zur Stärkung und Förderung von Frauen und Mädchen finanziert. Let’s code together!",
       "event_link": "https://www.technischesmuseum.at/event/lets_code_programmieren_fuer_einsteigerinnen",
       "event_target_audience": [
         60,
@@ -319,7 +319,7 @@
       "event_has_fees": false,
       "event_is_online": true,
       "organization_name": "Technisches Museum Wien mit Österreichischer Mediathek",
-      "event_format": "Online-Workshopreihe für Frauen (ab 16 Jahren). Für die Teilnahme sind keine Vorkenntnisse notwendig. Das Projekt wird durch den Österreichischen Fonds zur Stärkung und Förderung von Frauen und Mädchen finanziert",
+      "event_format": "Kostenlose Online-Workshopreihe für Frauen (ab 16 Jahren)",
       "event_age_minimum": 16,
       "event_age_maximum": 99,
       "event_address_state": "Wien",
